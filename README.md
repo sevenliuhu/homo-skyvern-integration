@@ -88,3 +88,14 @@ python3 homo_skyvern.py check
 
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) — AI浏览器自动化框架
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) — 隐身Chromium引擎
+
+
+---
+
+## 产品矩阵
+
+| 项目 | 说明 |
+|:-----|:------|
+| [homo-cloaked-playwright](https://github.com/sevenliuhu/homo-cloaked-playwright) | Chromium隐身浏览器 |
+| [homo-skyvern-integration](https://github.com/sevenliuhu/homo-skyvern-integration) | ⬅️ 当前项目 |
+| [homo-native-feel-ext](https://github.com/sevenliuhu/homo-native-feel-ext) | 跨平台桌面设计扩展 |
