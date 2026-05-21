@@ -99,3 +99,21 @@ python3 homo_skyvern.py check
 | [homo-cloaked-playwright](https://github.com/sevenliuhu/homo-cloaked-playwright) | Chromium隐身浏览器 |
 | [homo-skyvern-integration](https://github.com/sevenliuhu/homo-skyvern-integration) | ⬅️ 当前项目 |
 | [homo-native-feel-ext](https://github.com/sevenliuhu/homo-native-feel-ext) | 跨平台桌面设计扩展 |
+
+
+---
+
+## Business Contact
+
+**HOMO AI Agent OS** — Not just an AI assistant, your entire AI team.
+
+| Channel | Contact |
+|:--------|:--------|
+| Email | **16208204@qq.com** |
+| Phone/WeChat | **13437576418** |
+| GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
+| Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
+
+> For custom development or commercial license, contact us above. Response within 24h.
+> This repository is for reference only. Commercial use requires a license.
+
