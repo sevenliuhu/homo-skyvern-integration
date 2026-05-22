@@ -63,8 +63,7 @@ Skyvern通过 `BROWSER_TYPE=cdp-connect` 模式连接外部浏览器。
 
 ---
 
-## 免费版 vs Pro版
-
+> 💡 需要更多功能？请发送邮件至 **16208204@qq.com** 咨询
 | 功能 | 免费版 | Pro版 |
 |:-----|:-----:|:-----:|
 | CloakBrowser集成 | ✅ | ✅ |
